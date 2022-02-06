@@ -1,5 +1,9 @@
 # Javascript Drag and Drop
 
+![alt text][javascript]
+
+[javascript]: https://github.com/yourwpmadesimple/javascript-navigation-animation/blob/master/javascript_banner.jpg "Javascript Banner"
+
 ## Get Elements and set variables
 ```javascript
 const addBtns = document.querySelectorAll(".add-btn:not(.solid)");
